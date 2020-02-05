@@ -1,4 +1,0 @@
-#Tomcat publish data
-#Tue Jan 21 18:15:14 EST 2020
-org.eclipse.jst.jee.server\:cs5200-spring2020-annunziato=D\:\\Program Files\\spring\\sts-bundle\\pivotal-tc-server\\instances\\base-instance\\wtpwebapps\\cs5200-spring2020-annunziato
-org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Nicky\ Liu\\.m2\\repository\\org\\springframework\\spring-web\\5.2.3.RELEASE\\spring-web-5.2.3.RELEASE.jar=D\:\\Program Files\\spring\\sts-bundle\\pivotal-tc-server\\instances\\base-instance\\wtpwebapps\\cs5200-spring2020-annunziato\\WEB-INF\\lib\\spring-web-5.2.3.RELEASE.jar

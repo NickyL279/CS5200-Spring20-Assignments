@@ -1,2 +1,0 @@
-INDEX VERSION 1.4+C:\Users\Nicky Liu\Documents\workspace-sts-3.9.11.RELEASE\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-747007600.index
