@@ -1,0 +1,4 @@
+The hostname: cs5200-spring2020-liu.cppxrtx9naix.us-east-2.rds.amazonaws.com
+Username: NickyL
+Password: asdf1234
+Port: 3306
