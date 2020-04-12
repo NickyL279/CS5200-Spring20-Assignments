@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<website id="w123" name="website 1">
+   <description>Lorem ipsum</description>
+   <page id="p123" name="page 1">
+      <description>Lorem ipsum</description>
+      <widget id="wg123" type="TEXT"/>
+      <widget id="wg1234" type="IMG"/>
+   </page>
+   <page id="p234" name="page 2">
+      <description>Lorem ipsum</description>
+      <widget id="wg234" type="YOUTUBE"/>
+      <widget id="wg2345" type="BUTTON"/>
+      <widget id="wg123" type="TEXT"/>
+   </page>
+</website>
